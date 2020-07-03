@@ -7,6 +7,14 @@
       "addressDetails": {
         "address": "X75nEw5QD8Ej8jWt7EkJXHoVAV9YCtjuUSJppADpNtPKdim"
       }
+    },
+    {
+      "paymentNetwork": "XRPL",
+      "environment": "TESTNET",
+      "addressDetailsType": "CryptoAddressDetails",
+      "addressDetails": {
+        "address": "rGFzdwNWDuVBwVN3Rn3vwrx4ZNi8FBGVZX"
+      }
     }
   ],
   "payId": "pay$hammertoe.github.io"
