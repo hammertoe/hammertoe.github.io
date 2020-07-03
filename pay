@@ -2,10 +2,10 @@
   "addresses": [
     {
       "paymentNetwork": "XRPL",
-      "environment": "MAINNET",
+      "environment": "TESTNET",
       "addressDetailsType": "CryptoAddressDetails",
       "addressDetails": {
-        "address": "X75nEw5QD8Ej8jWt7EkJXHoVAV9YCtjuUSJppADpNtPKdim"
+        "address": "rszDsdn8bUH9KRxM7DgvJS6oJ1w7kjQBfi"
       }
     },
     {
