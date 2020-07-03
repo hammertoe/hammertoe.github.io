@@ -5,14 +5,6 @@
       "environment": "TESTNET",
       "addressDetailsType": "CryptoAddressDetails",
       "addressDetails": {
-        "address": "rszDsdn8bUH9KRxM7DgvJS6oJ1w7kjQBfi"
-      }
-    },
-    {
-      "paymentNetwork": "XRPL",
-      "environment": "TESTNET",
-      "addressDetailsType": "CryptoAddressDetails",
-      "addressDetails": {
         "address": "rGFzdwNWDuVBwVN3Rn3vwrx4ZNi8FBGVZX"
       }
     }
